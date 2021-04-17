@@ -14,7 +14,7 @@ Page({
   onLoad: function (options) {
         console.log(this.data.msg)
         this.setData({   //修改data中参数
-          msg:"白首偕老"
+          msg:"白首偕老1"
         })
   },
 handleParent: function (){
