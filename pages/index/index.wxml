@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+<view class="indexContainer">
+   <image class="avatarUrl" src="/static/images/C15A8838.jpg" alt=""></image>
+   <text calss="userName">{{msg}}</text>
+   <view catchtap="toLogs" class="gostudy">
+       <text>hello baron</text>
+   </view>
+</view>
